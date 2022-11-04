@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 Programer Student
+- 💼 Programmer Student
 - ✏ Novice Graphic Designer 
 - ❤️ I like all musical instruments
 
