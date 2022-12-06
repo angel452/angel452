@@ -1,3 +1,5 @@
+<img alt="GIF" src="https://user-images.githubusercontent.com/70419764/178626489-c8a1827b-19f0-40f5-9827-9f26f4e7bbf2.gif" width="100%" height="100%" />
+
 ### Hi there 👋 I'm Angel Loayza. Nice to meet you
 
 **About me**
