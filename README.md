@@ -24,6 +24,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/loayzahuarachi_cnc) 
  
 ##
-![Snake animation](https://github.com/angel452/angel452/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/angel452/angel452/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
