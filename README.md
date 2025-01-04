@@ -20,14 +20,14 @@
     <tr border="none">
       <td width="50%" align="center">
         <!-- Estadísticas del usuario -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Angel452&theme=dark&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=angel452&theme=dark&show_icons=true&count_private=true" />
         <br></br>
         <!-- Estadísticas de rachas -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Angel452&theme=dark&hide_border=false" /> 
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=angel452&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
         <!-- Lenguajes más utilizados por el usuario -->
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Angel452&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angel452&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
       </td>
     </tr>
   </table>
@@ -37,13 +37,13 @@
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <!-- Trofeos obtenidos en GitHub -->
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Angel452&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=angel452&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
   </div>
   <!-- Fin de la sección de trofeos -->
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angel452&theme=react-dark&custom_title=Angel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angel452&theme=react-dark&custom_title=Angel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Conocimientos -->
 # 💻 Skill Set
