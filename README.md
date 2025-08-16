@@ -45,6 +45,19 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angel452&theme=react-dark&custom_title=Angel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- TETRIS -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 <!-- Conocimientos -->
 # 💻 Skill Set
 Here are some key technologies that I currently use and have experience with:
