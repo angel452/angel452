@@ -17,6 +17,8 @@
 
 ### About
 
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="160" height="160" /></a>
+
 I'm Angel Josue Loayza Huarachi — a fullstack developer currently working with **Next.js** professionally while specializing in **Angular** and **NestJS** on my own projects. Still finishing my degree, but already shipping production code.
 
 ---
