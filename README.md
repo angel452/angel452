@@ -17,12 +17,12 @@
 
 ### About
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       I'm Angel Josue Loayza Huarachi — a fullstack developer currently working with <b>Next.js</b> professionally while specializing in <b>Angular</b> and <b>NestJS</b> on my own projects. Still finishing my degree, but already shipping production code.
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="140" />
     </td>
   </tr>
