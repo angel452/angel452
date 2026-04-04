@@ -1,7 +1,7 @@
 <!-- Saludo Animado -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;This+is+Angel+Loayza...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+;This+is+Angel+Loayza...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
@@ -20,14 +20,14 @@
     <tr border="none">
       <td width="50%" align="center">
         <!-- Estadísticas del usuario -->
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=angel452&theme=synthwave&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats-gold-eight-30.vercel.app/api?username=angel452&theme=synthwave&show_icons=true&count_private=true" />
         <br></br>
         <!-- Estadísticas de rachas -->
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=angel452&theme=synthwave&border_radius=6" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angel452&theme=synthwave&border_radius=6" alt="GitHub Streak" /></a>
       </td>
       <td width="50%" align="center">
         <!-- Lenguajes más utilizados por el usuario -->
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angel452&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+        <img align="center" src="https://github-readme-stats-gold-eight-30.vercel.app/api/top-langs/?username=angel452&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
       </td>
     </tr>
   </table>
@@ -43,7 +43,7 @@
   <!-- Fin de la sección de trofeos -->
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angel452&theme=react-dark&custom_title=Angel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph-ashy-one.vercel.app/graph?username=angel452&theme=react-dark&custom_title=Angel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- TETRIS -->
 <picture>
