@@ -1,97 +1,74 @@
-<!-- Saludo Animado -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+;This+is+Angel+Loayza...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Angel+Loayza;Fullstack+Developer;Angular+%7C+NestJS+%7C+Next.js&center=true&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=380&height=45" alt="Typing SVG" />
 
-<!-- Sobre mi (Informacion personal) -->
-# 💫 About Me:
-🔭 Programmer Student<br>🤝 I like all musical instruments<br>⚡ Novice Graphic Designer
+<br />
 
-<!-- Estadisticas -->
-# 📊 GitHub Stats:
+`Fullstack Developer` `Student` `Building things that matter`
 
-<p align="center">
-  <!-- Tabla para mostrar las estadísticas de GitHub -->
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <!-- Estadísticas del usuario -->
-        <img align="center" src="https://github-readme-stats-gold-eight-30.vercel.app/api?username=angel452&theme=synthwave&show_icons=true&count_private=true" />
-        <br></br>
-        <!-- Estadísticas de rachas -->
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angel452&theme=synthwave&border_radius=6" alt="GitHub Streak" /></a>
-      </td>
-      <td width="50%" align="center">
-        <!-- Lenguajes más utilizados por el usuario -->
-        <img align="center" src="https://github-readme-stats-gold-eight-30.vercel.app/api/top-langs/?username=angel452&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
-  <!-- Fin de la tabla de estadísticas -->
+<br />
 
-  <!-- Sección de trofeos de GitHub -->
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <!-- Trofeos obtenidos en GitHub -->
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=angel452&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-  </div>
-  <!-- Fin de la sección de trofeos -->
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-josue-loayza-huarachi-ba19902ab/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/angel.loayza17)
 
-[![activity graph](https://github-readme-activity-graph-ashy-one.vercel.app/graph?username=angel452&theme=react-dark&custom_title=Angel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
-<!-- TETRIS -->
+---
+
+### About
+
+I'm Angel Josue Loayza Huarachi — a fullstack developer currently working with **Next.js** professionally while specializing in **Angular** and **NestJS** on my own projects. Still finishing my degree, but already shipping production code.
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-gold-eight-30.vercel.app/api?username=angel452&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats-gold-eight-30.vercel.app/api/top-langs/?username=angel452&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=angel452&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+---
+
+<details>
+<summary>Something fun</summary>
+<br />
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-<!-- Conocimientos -->
-# 💻 Skill Set
-Here are some key technologies that I currently use and have experience with:
-
-**Programming Languages**
-
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=007ACC&logo=TypeScript&logoColor=FFFFFF&label=)
-![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
-
-**Libraries and Frameworks**
-
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
-![Nest](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
-![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-
-**Databases**
-
-![Microsoft SQL](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL&color=CC2927&logo=Microsoft-SQL-Server&logoColor=FFFFFF&label=)
-
-**DevOps**
-
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-
-<!-- Redes -->
-## 🌐 Personal Social Networks:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ajosue.loayza) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel.loayza17) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AngelLoayza8) 
-
-## 🌐 Business Social Networks:
-<a href="https://facebook.com/groups/1751436188360866" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/loayzahuarachi_cnc) 
+</details>
